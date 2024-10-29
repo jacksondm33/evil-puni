@@ -1,0 +1,3 @@
+* evil-puni
+
+Work-in-progress Evil frontend to [[https://github.com/AmaiKinono/puni][Puni]]. The goal is to implement most of the functionality of structural editing packages like [[https://github.com/emacs-evil/evil-cleverparens][evil-cleverparens]] while only relying on Puni to do so.
